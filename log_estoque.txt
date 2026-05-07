@@ -1,0 +1,26 @@
+[06/05/2026 20:00:29] INSERÇÃO - Produto "Monitor" (Qtd: 10) cadastrado com sucesso.
+[06/05/2026 20:00:29] ATUALIZAÇÃO - Produto "Monitor" alterado (Nova Qtd: 8, Novo Preço: 850.00).
+[06/05/2026 20:00:29] EXCLUSÃO - Produto "Monitor" removido do sistema.
+[06/05/2026 20:18:30] INSERÇÃO - Produto "Caneta" (Qtd: 1) cadastrado com sucesso.
+[06/05/2026 20:20:03] EXCLUSÃO - Produto "Caneta" removido do sistema.
+[06/05/2026 20:20:26] INSERÇÃO - Produto "Lápis" (Qtd: 10) cadastrado com sucesso.
+[06/05/2026 20:20:39] INSERÇÃO - Produto "Borracha" (Qtd: 5) cadastrado com sucesso.
+[06/05/2026 20:20:51] INSERÇÃO - Produto "Régua" (Qtd: 2) cadastrado com sucesso.
+[06/05/2026 20:21:07] INSERÇÃO - Produto "Apontador" (Qtd: 20) cadastrado com sucesso.
+[06/05/2026 20:21:32] ATUALIZAÇÃO - Produto "Régua" alterado (Nova Qtd: 10, Novo Preço: 20.00).
+[06/05/2026 20:26:09] INSERÇÃO - Produto "Estojo" (Qtd: 1) cadastrado com sucesso.
+[06/05/2026 20:36:19] EXCLUSÃO - Produto "Lápis" removido do sistema.
+[06/05/2026 20:36:21] EXCLUSÃO - Produto "Borracha" removido do sistema.
+[06/05/2026 20:36:23] EXCLUSÃO - Produto "Régua" removido do sistema.
+[06/05/2026 20:36:25] EXCLUSÃO - Produto "Apontador" removido do sistema.
+[06/05/2026 20:36:27] EXCLUSÃO - Produto "Estojo" removido do sistema.
+[06/05/2026 20:37:03] INSERÇÃO - Produto "Post-It" (Qtd: 200) cadastrado com sucesso.
+[06/05/2026 20:37:39] INSERÇÃO - Produto "Caderneta" (Qtd: 2) cadastrado com sucesso.
+[06/05/2026 20:37:55] INSERÇÃO - Produto "Pirulito" (Qtd: 3) cadastrado com sucesso.
+[06/05/2026 20:38:20] ATUALIZAÇÃO - Produto "Pirulito" alterado (Nova Qtd: 3, Novo Preço: 7.50).
+[06/05/2026 20:38:57] INSERÇÃO - Produto "Computador" (Qtd: 3) cadastrado com sucesso.
+[06/05/2026 20:45:33] INSERÇÃO - Produto "Caneta" (Qtd: 10) cadastrado com sucesso.
+[06/05/2026 20:45:48] ATUALIZAÇÃO - Produto "Caneta" alterado (Nova Qtd: 12, Novo Preço: 82.00).
+[06/05/2026 20:46:08] INSERÇÃO - Produto "Lapiseira" (Qtd: 2) cadastrado com sucesso.
+[06/05/2026 20:46:23] ATUALIZAÇÃO - Produto "Lapiseira" alterado (Nova Qtd: 3, Novo Preço: 18.00).
+[06/05/2026 20:46:32] EXCLUSÃO - Produto "Lapiseira" removido do sistema.
